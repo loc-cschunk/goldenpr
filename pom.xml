@@ -26,5 +26,10 @@
             <artifactId>jose4j</artifactId>
             <version>0.9.3</version>
         </dependency>
+        <dependency>
+            <groupId>org.webjars.npm</groupId>
+            <artifactId>bootstrap</artifactId>
+            <version>3.3.7</version>
+        </dependency>
     </dependencies>
 </project>
